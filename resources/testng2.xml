@@ -13,57 +13,52 @@
     <classes>
     
     	<!--***************************  PowerAdSpy Dashboard Module   *****************************-->
-               <class name="com.power.testcases.Verify_Power_Ad_Spy_VerifyDashboard_Page"/> 
+           
        
        
       <!--***************************  FaceBook Ads Dashboard Module   *****************************-->
-              <class name="com.power.testcases.Verify_Facebook_Dashboard_Filters"/>
-       
-              <class name="com.power.testcases.Verify_Facebook_sortBy_newest_AdCountsTestScript"/>
-              <class name="com.power.testcases.Verify_Facebook_SortBy_TestScript"/>
-              <class name="com.power.testcases.Verify_Facebook_Functionality_Of_RightSide_Icon_TestScript"/>
-                <class name="com.power.testcasesVerify_Facebook_Ad_Seen_Between_TestScript"/>
+                <class name="com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript"/>
        
        
       <!--***************************  Instagram Ads Dashboard Module   *****************************-->
-              <class name="com.power.testcases.Verify_Insta_Dashboard_Filters"/>
+                  
        
        
       <!--***************************   Youtube Ads Dashboard Module   *****************************-->
-              <class name="com.power.testcases.Verify_Youtube_Dashboard_Filters"/> 
+              
       
       
       <!--***************************  Google Ads Dashboard Module   *****************************-->
-              <class name="com.power.testcases.Verify_Googleads_Dashboard_Filters"/>
+             
       
       
       <!--***************************  GDN Ads Dashboard Module   *****************************-->
-              <class name="com.power.testcases.Verify_Gdn_Dashboard_Filters"/> 
+           
        
        
       <!--***************************  Native Ads Dashboard Module   *****************************-->
-             <class name="com.power.testcases.Verify_Native_Dashboard_Filters"/> 
+             
        
        
       <!--***************************  Reddit Ads Dashboard Module   *****************************-->
-            <class name="com.power.testcases.Verify_Reddit_Dashboard_Filters"/>
+          
        
        
       <!--***************************  Quora Ads Dashboard Module   *****************************-->
-             <class name="com.power.testcases.Verify_Quora_Dashboard_Filters"/> 
+             
        
        
       <!--***************************  Pinterest Ads Dashboard Module   *****************************-->
-           <class name="com.power.testcases.Verify_Pintrest_Dashboard_Filters"/> 
+          
         
       <!--***************************  LinkedIn Ads Dashboard Module   *****************************-->
-      <class name="com.power.testcases.Verify_Linkedin_Dashboard_Filters"/>
+    
       
       <!--***************************  Twitter Ads Dashboard Module   *****************************-->
-      <class name="com.power.testcases.Verify_Twitter_Dashboard_Filters"/> 
+    
        
       <!--***************************  Push Ads Dashboard Module   *****************************-->
-       <class name="com.power.testcases.Verify_Pushads_Dashboard_Filters"/> 
+       
        
        
          

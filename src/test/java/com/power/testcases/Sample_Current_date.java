@@ -12,7 +12,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class Current_date {
+public class Sample_Current_date {
 	@Test
 	public void Current_date() throws Exception
 	{

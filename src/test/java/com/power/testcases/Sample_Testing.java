@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class Testing   {
+public class Sample_Testing   {
 
 	@Test
 	public void TestPage () throws InterruptedException {	
@@ -24,7 +24,8 @@ public class Testing   {
 		Thread.sleep(1000);
 		driver.switchTo().defaultContent();
 		driver.findElement(By.xpath("//input[@type='submit' and @value='Login']")).submit();
-		//driver.quit();
+		Thread.sleep(1000);
+		driver.quit();
 	
 	
 	}

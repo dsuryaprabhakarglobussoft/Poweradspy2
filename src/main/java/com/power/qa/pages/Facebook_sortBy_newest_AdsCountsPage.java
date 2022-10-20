@@ -71,15 +71,7 @@ public class Facebook_sortBy_newest_AdsCountsPage extends BasePage {
 		
 		String imageDate=Date1.getText();
 		System.out.println("Current Image Date: "+imageDate);
-		Reporter.log("<B><font color = 'orange'> Step5 -</font> Total Ad Count is :"+imageDate);
-		if (imageDate == formattedDate)
-		{
-			System.out.println("Both Date are Match");
-		}
-		else
-		{
-			System.out.println("Both Date are Not Match");
-		}
+		Reporter.log("<B><font color = 'orange'> Step6 -</font> Total Ad Count is :"+imageDate);
 		Assert.assertEquals(imageDate,formattedDate);
 		System.out.println();
 		 

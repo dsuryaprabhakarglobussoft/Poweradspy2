@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<B><font color = 'blue'>Username .</font></B> Entered User ID]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'blue'>Password .</font></B> Entered Password]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'blue'>Sign In Button .</font></B> Clicked on Submit Button]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step1 -</font> Logged into PowerAdSpy Application]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step2 -</font> I am on the page :PowerAdSpy | Facebook Dashboard]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step3 -</font> Power Ad Spy Logo is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step4 -</font> Clicked On FaceBook Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'red'>  - ShortBy Newest Step will Start from here </font>  ]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On sortBy Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On SortBy Newest Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'red'>  - ShortBy Ad Seen Between All Step will Start from here  </font> ]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between All Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :704]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step5 -</font> Clicked On Show Analytics Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step6 -</font> Image Date is :10 October 2022]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step7 -</font> Image Date of First Seen is :October 10 2022]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'red'>  - ShortBy Ad Seen Between Today Step will Start from here </font> ]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between Today Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step5 -</font> Image is not able:   Opp! Looks like we don't have data for this search criteria yet.   But don't worry, Spidey is on the crawl now and it will scrape ads for this search criteria for you ASAP.]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'red'>  - ShortBy Ad Seen Between Today Step will Start from here </font> ]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between Yesterday Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :127]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step5 -</font> Clicked On Show Analytics Icon]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step6 -</font> Image Date is :19 October 2022]]>
+    </line>
+    <line>
+      <![CDATA[<B><font color = 'orange'> Step7 -</font> Image Date of First Seen is :October 19 2022]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-20T13:16:25 IST" name="Default suite" finished-at="2022-10-20T13:18:58 IST" duration-ms="152392">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T13:16:25 IST" name="Default test" finished-at="2022-10-20T13:18:58 IST" duration-ms="152392">
+      <class name="com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f]" started-at="2022-10-20T13:16:25 IST" name="beforeSuite" finished-at="2022-10-20T13:16:25 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f]" started-at="2022-10-20T13:16:25 IST" name="initialization" finished-at="2022-10-20T13:16:34 IST" duration-ms="8831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f]" started-at="2022-10-20T13:16:34 IST" name="setUp" finished-at="2022-10-20T13:16:39 IST" duration-ms="4941" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<B><font color = 'blue'>Username .</font></B> Entered User ID]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'blue'>Password .</font></B> Entered Password]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'blue'>Sign In Button .</font></B> Clicked on Submit Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Facebook_Ad_Seen_Between_TestScript()[pri:0, instance:com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f]" started-at="2022-10-20T13:16:39 IST" name="Facebook_Ad_Seen_Between_TestScript" finished-at="2022-10-20T13:18:57 IST" duration-ms="137816" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step1 -</font> Logged into PowerAdSpy Application]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step2 -</font> I am on the page :PowerAdSpy | Facebook Dashboard]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step3 -</font> Power Ad Spy Logo is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step4 -</font> Clicked On FaceBook Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'red'>  - ShortBy Newest Step will Start from here </font>  ]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On sortBy Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On SortBy Newest Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'red'>  - ShortBy Ad Seen Between All Step will Start from here  </font> ]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between All Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :704]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step5 -</font> Clicked On Show Analytics Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step6 -</font> Image Date is :10 October 2022]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step7 -</font> Image Date of First Seen is :October 10 2022]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'red'>  - ShortBy Ad Seen Between Today Step will Start from here </font> ]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between Today Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step5 -</font> Image is not able:   Opp! Looks like we don't have data for this search criteria yet.   But don't worry, Spidey is on the crawl now and it will scrape ads for this search criteria for you ASAP.]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'red'>  - ShortBy Ad Seen Between Today Step will Start from here </font> ]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between Yesterday Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :127]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step5 -</font> Clicked On Show Analytics Icon]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step6 -</font> Image Date is :19 October 2022]]>
+            </line>
+            <line>
+              <![CDATA[<B><font color = 'orange'> Step7 -</font> Image Date of First Seen is :October 19 2022]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Facebook_Ad_Seen_Between_TestScript -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f]" started-at="2022-10-20T13:18:57 IST" name="tearDown" finished-at="2022-10-20T13:18:58 IST" duration-ms="718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Facebook_Ad_Seen_Between_TestScript status=SUCCESS method=Verify_Facebook_Ad_Seen_Between_TestScript.Facebook_Ad_Seen_Between_TestScript()[pri:0, instance:com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f] output=<B><font color = 'orange'> Step1 -</font> Logged into PowerAdSpy Application]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

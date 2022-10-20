@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Oct 20 13:16:25 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>152 seconds (152392 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript.Facebook_Ad_Seen_Between_TestScript()'><b>Facebook_Ad_Seen_Between_TestScript</b><br>Test class: com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript<br/>
+<a href="#Output-1104899659" onClick='toggleBox("Output-1104899659", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1104899659" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1104899659">
+<B><font color = 'orange'> Step1 -</font> Logged into PowerAdSpy Application<br/>
+<B><font color = 'orange'> Step2 -</font> I am on the page :PowerAdSpy | Facebook Dashboard<br/>
+<B><font color = 'orange'> Step3 -</font> Power Ad Spy Logo is Displayed<br/>
+<B><font color = 'orange'> Step4 -</font> Clicked On FaceBook Icon<br/>
+<B><font color = 'red'>  - ShortBy Newest Step will Start from here </font>  <br/>
+<B><font color = 'orange'> Step1 -</font> Clicked On sortBy Icon<br/>
+<B><font color = 'orange'> Step2 -</font> Clicked On SortBy Newest Icon<br/>
+<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon<br/>
+<B><font color = 'red'>  - ShortBy Ad Seen Between All Step will Start from here  </font> <br/>
+<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon<br/>
+<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between All Icon<br/>
+<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon<br/>
+<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :704<br/>
+<B><font color = 'orange'> Step5 -</font> Clicked On Show Analytics Icon<br/>
+<B><font color = 'orange'> Step6 -</font> Image Date is :10 October 2022<br/>
+<B><font color = 'orange'> Step7 -</font> Image Date of First Seen is :October 10 2022<br/>
+<B><font color = 'red'>  - ShortBy Ad Seen Between Today Step will Start from here </font> <br/>
+<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon<br/>
+<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between Today Icon<br/>
+<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon<br/>
+<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :<br/>
+<B><font color = 'orange'> Step5 -</font> Image is not able:   Opp! Looks like we don't have data for this search criteria yet.   But don't worry, Spidey is on the crawl now and it will scrape ads for this search criteria for you ASAP.<br/>
+<B><font color = 'red'>  - ShortBy Ad Seen Between Today Step will Start from here </font> <br/>
+<B><font color = 'orange'> Step1 -</font> Clicked On ad Seen between filter Icon<br/>
+<B><font color = 'orange'> Step2 -</font> Clicked On ad Seen between Yesterday Icon<br/>
+<B><font color = 'orange'> Step3 -</font> Clicked On search Button Icon<br/>
+<B><font color = 'orange'> Step4 -</font>  Total Ad Count is :127<br/>
+<B><font color = 'orange'> Step5 -</font> Clicked On Show Analytics Icon<br/>
+<B><font color = 'orange'> Step6 -</font> Image Date is :19 October 2022<br/>
+<B><font color = 'orange'> Step7 -</font> Image Date of First Seen is :October 19 2022<br/>
+</div>
+</td>
+<td></td>
+<td>137</td>
+<td>com.power.testcases.Verify_Facebook_Ad_Seen_Between_TestScript@100c567f</td></tr>
+</table><p>
+</body>
+</html>

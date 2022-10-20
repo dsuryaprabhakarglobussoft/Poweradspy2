@@ -4,7 +4,11 @@ import org.testng.annotations.Test;
 
 import com.power.qa.base.TestBase;
 import com.power.qa.pages.Facebook_sortBy_newest_AdsCountsPage;
-
+/**
+ * 
+ * @author Surya
+ *
+ */
 public class Verify_Facebook_sortBy_newest_AdCountsTestScript extends TestBase{
 
 	

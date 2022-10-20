@@ -10,7 +10,7 @@ import com.power.qa.pages.DashboardPage;
 
 
 
-public class Power_Ad_Spy_VerifyDashboard_Page extends TestBase{
+public class Verify_Power_Ad_Spy_VerifyDashboard_Page extends TestBase{
 	
 	
 
